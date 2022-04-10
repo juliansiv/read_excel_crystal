@@ -1,4 +1,4 @@
-# write_excel
+# read_excel_crystal
 Benchmark xlsx reader with crystal
 
 # how does it works?
