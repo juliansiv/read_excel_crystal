@@ -1,0 +1,7 @@
+name: read_excel
+version: 0.1.0
+
+dependencies:
+  xlsx-parser:
+    github: D1ceWard/xlsx-parser
+    version: 0.8.2

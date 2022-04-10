@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  xlsx-parser:
+    git: https://github.com/d1ceward/xlsx-parser.git
+    version: 0.8.2
+
