@@ -3,9 +3,11 @@ Benchmark xlsx reader with crystal
 
 # how does it works?
 * clone repo
-* crystal run ./read_excel_crystal/main.rb for standar execution
-* crystal build ./read_excel_crystal/main.rb --release for compile and create executable
-* ./main.rb
+* cd read_excel_crystal
+* shard install
+* crystal run main.cr for standar execution
+* crystal build main.cr --release for compile and create executable
+* ./main
 
 # Bench
 crystal 1.3.2
